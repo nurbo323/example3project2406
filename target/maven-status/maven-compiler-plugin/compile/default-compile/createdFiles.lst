@@ -1,0 +1,7 @@
+org\example\demospring\DemoSpringApplication.class
+org\example\demospring\services\RegistrationService.class
+org\example\demospring\controllers\UserController.class
+org\example\demospring\models\User.class
+org\example\demospring\repositories\UserRepository.class
+org\example\demospring\services\interfaces\RegistrationServiceInterface.class
+org\example\demospring\dto\UserDto.class
